@@ -3,7 +3,7 @@
 Um novo projeto no flutter
 A new Flutter Project
 
-## GComeçando
+## Começando
 
 Esse vai ser o começo pro Flutter
 I thing this is a good start for Flutter
